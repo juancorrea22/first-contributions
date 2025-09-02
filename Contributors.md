@@ -1,5 +1,6 @@
 
 # Contributors
+-Isabella Ramirez E.
 -[Akash](https://github.com/Akash-code-0-1)
 -[shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
@@ -20,6 +21,7 @@
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [mgalore](https://github.com/mgalore)
 - Bhuvana Madiraju
+- santiago robles
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
@@ -89,6 +91,7 @@
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Jordan James](https://github.com/JordanJamesJA)
 - [Pranay Gurav](https://github.com/cwpranay)
+- [Martin Estrada Agudelo]
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Sushmitha](https://github.com/Sushmigit)
@@ -199,6 +202,7 @@
 - Shiv
 -huzaifa(https://github.com/huzaifaashraf-code)
 - [Ibrahim]
+ -[Pavan kumar Bhedam](https://github.com/Pavankumarbhedam)
 - shreyash patil [https://github.com/Sudeshpatil07]
 - [eieilin](https://github.com/eieilin)
 - [Jhanvi](https://github.com/JhanviN)
@@ -263,6 +267,7 @@ LIUYY到此一游
 - [Lokesh Kumar]()
 - [Rudrabikram Roy](https://github.com/codedbyrudra)
 - [Jenna Hall](https://github.com/swejenna)
+- [Juan Lopez](https://github.com/crigrii) 
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
 - [Arjun](https://github.com/arjundevensharma)
@@ -2459,3 +2464,4 @@ DanyLeeCS
 - [Syed Khizar](https://github.com/SYEDKHIZARX)
 - [Bhawna](https://github.com/bhawnaa05)
 - [naqa92](https://github.com/naqa92)
+- [Yura_Hernandez](https://github.com/yuracoff18)
